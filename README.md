@@ -14,6 +14,13 @@ bmueller@hstat.org
  * It's incredible simple to use, but it's also extremely powerful and versatile.
 * **How to use it (beginning)**
  * Make sure you're signed into Google
- * mail.google.com/tasks
- * shortcut: tiny.cc/gTasks
+ * [mail.google.com/tasks]
   * ![google tasks bookmark](gTasks-bookmark.jpg)
+ * I find it helpful to bookmark Tasks, Mail, Calendar, and Drive (all wonderful Google services)
+ * Starts adding tasks to your list!
+ * When you're done, click the check-box
+ * Click "Clear completed" to clean up your list
+* **How to use it (mastering)**
+ * Keyboard shortcuts _(click "Show tips" in the top-right corner)_
+  * Move task up: Ctrl ↑ (or Cmd ↑ on a Mac)
+  
