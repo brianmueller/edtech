@@ -15,7 +15,7 @@ bmueller@hstat.org
 
 ## How to use it (beginning)
  * Make sure you're signed into Google
- * http://mail.google.com/tasks
+ * http://mail.google.com/tasks/canvas
    * ![google tasks bookmark](gTasks-bookmark.jpg)
  * I find it helpful to bookmark Tasks, Mail, Calendar, and Drive (all wonderful Google services)
  * Starts adding tasks to your list!
